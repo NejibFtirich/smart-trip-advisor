@@ -1,0 +1,4 @@
+digraph "com.smart.trip.advisor:trip-external:jar:1.0.0-SNAPSHOT" { 
+	"com.smart.trip.advisor:trip-external:jar:1.0.0-SNAPSHOT" -> "com.smart.trip.advisor:trip-application-service:jar:1.0.0-SNAPSHOT:compile" ; 
+	"com.smart.trip.advisor:trip-application-service:jar:1.0.0-SNAPSHOT:compile" -> "com.smart.trip.advisor:trip-domain-core:jar:1.0.0-SNAPSHOT:compile" ; 
+ } 
