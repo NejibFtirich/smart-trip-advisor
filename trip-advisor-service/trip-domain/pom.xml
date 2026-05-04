@@ -15,7 +15,6 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>common-domain</module>
         <module>trip-domain-core</module>
         <module>trip-application-service</module>
     </modules>
